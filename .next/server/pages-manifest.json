@@ -1,0 +1,16 @@
+{
+  "/_document": "pages/_document.js",
+  "/allPages/CU": "pages/allPages/CU.html",
+  "/allPages/ExchangeAretunP": "pages/allPages/ExchangeAretunP.html",
+  "/allPages/Faq": "pages/allPages/Faq.html",
+  "/allPages/Index": "pages/allPages/Index.html",
+  "/allPages/OurStory": "pages/allPages/OurStory.html",
+  "/allPages/ShippingAndDelivery": "pages/allPages/ShippingAndDelivery.html",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/allPages/TAc": "pages/allPages/TAc.html",
+  "/allPages/PrivacyPolicy": "pages/allPages/PrivacyPolicy.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
