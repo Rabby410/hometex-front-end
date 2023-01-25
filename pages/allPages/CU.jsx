@@ -1,4 +1,4 @@
-import ContactUs from "../../components/contactUS/ContactUs";
+import COntactUs from "../../components/contactUS/ContactUs";
 import Topbar from "../../components/Header/Topbar";
 import Midbar from "../../components/Header/Midbar";
 import Footbar from "../../components/Header/Footbar";
@@ -9,7 +9,7 @@ function CU() {
             <Topbar />
             <Midbar />
             <Footbar />
-            <ContactUs />
+            <COntactUs />
             <Footer />
 
         </>
